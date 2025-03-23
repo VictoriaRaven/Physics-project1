@@ -30,6 +30,8 @@ See also the list of
 who participated in this project.
 
 ## Acknowledgments
-- [UMGC CS Resources](https://libguides.umgc.edu/c.php?g=316603&p=2114865)
+- [Google Scholar](https://scholar.google.com/)
+- [Wikipedia](https://www.wikipedia.org/)
+- [UMGC Library](https://libguides.umgc.edu/home)
  - Thank you!
  - VictoriaRaven
